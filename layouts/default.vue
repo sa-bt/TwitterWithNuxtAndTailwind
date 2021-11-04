@@ -1,7 +1,5 @@
 <template>
-  <div class="container flex h-screen w-full">
-    <!--Side nav -->
-    <Sidebar/>
+  <div >
     <Nuxt/>
   </div>
 </template>
