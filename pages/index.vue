@@ -1,5 +1,5 @@
 <template>
-  <div class="container flex h-screen w-full">
+  <div class="container flex h-screen w-full m-auto">
     <!--Side nav -->
     <Sidebar/>
     <Tweet/>
